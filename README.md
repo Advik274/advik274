@@ -10,6 +10,7 @@ I’m a developer who loves building AI and ML projects that actually solve real
 # 📊 GitHub Stats:
 ![](https://github-stats-extended.vercel.app/api/top-langs/?username=advik274&theme=transparent&hide_border=true&layout=compact)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=advik274&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+[![GitHub Streak](https://nirzak-streak-stats.vercel.app?username=advik274&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&layout=compact)](https://git.io/streak-stats)
 
   ## 💰 You can help me by Donating
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/Arnav_Latiyan) [![Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://patreon.com/Arnav_Latiyan) 
