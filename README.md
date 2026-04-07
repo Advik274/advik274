@@ -1,35 +1,9 @@
 # 💫 About Me:
-I'm a developer who loves building AI and ML projects that actually solve real problems. Most of my work comes from a simple belief: if I own a device, it should work exactly the way I want. That mindset pushes me to personalize everything I use, from my smartwatch to my laptop, and build tools that people don't talk about enough but genuinely need.
+I’m a developer who loves building AI and ML projects that actually solve real problems. Most of my work comes from a simple belief: if I own a device, it should work exactly the way I want. That mindset pushes me to personalize everything I use, from my smartwatch to my laptop, and build tools that people don’t talk about enough but genuinely need.<br><br>I’m currently working on a Carbon Emission from USA in past as a Data Science and Machine learning project. I’m open to collaborating on practical AI projects and always looking for help on systems that mix computer vision, ML pipelines, and real-world deployment.<br><br>Right now, I’m learning advanced ML techniques, DSA in Java, and building stronger backend skills with Flask and Database as well.<br>Ask me about Python, ML models, Java DSA, or turning messy ideas into working prototypes.<br><br>Fun fact: I keep thinking I’m funny. My code has trust issues about that.
 
-I'm currently working on a Carbon Emission from USA in past as a Data Science and Machine learning project. I'm open to collaborating on practical AI projects and always looking for help on systems that mix computer vision, ML pipelines, and real-world deployment.
-
-Right now, I'm learning advanced ML techniques, DSA in Java, and building stronger backend skills with Flask and Database as well. Ask me about Python, ML models, Java DSA, or turning messy ideas into working prototypes.
-
-Fun fact: I keep thinking I'm funny. My code has trust issues about that.
-
----
-
-## 🏆 GitHub Profile Trophy
-![Trophy](https://github-profile-trophy.vercel.app/?username=advik274&theme=flat&no-frame=true&row=1&margin-w=15)
-
----
-
-## 🚀 Featured Projects
-
-| Project | Description | Tech Stack |
-|---------|-------------|------------|
-| [Oral Cancer Detection](https://github.com/Advik274/Oral_cancer_detection) | Deep learning project for early detection of oral cancer using image classification | Python, TensorFlow, CNN |
-| [GitHub Contribution Agent](https://github.com/Advik274/github-contrib-agent) | AI-powered desktop agent that automates GitHub contributions | Python, Mistral AI, PyQt |
-| [NQueen](https://github.com/Advik274/NQueen) | N-Queens problem solver with visualization | Python, Algorithm |
-| [AI Code Doctor](https://github.com/Advik274/Ai-code-doctor) | AI-powered code analysis and improvement tool | Python, AI |
-| [Plant Disease Detection](https://github.com/Advik274/Plant-Disease-Detection) | ML model to identify plant diseases from leaf images | Python, CNN, OpenCV |
-
----
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/arnav_latiyan) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/arnavlatiyan) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/LatiyanArnav) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/Arnav-Latiyan-1) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/Pretty-Shopping-7344) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:latiyanarnav@gmail.com)
-
----
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/arnav_latiyan) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/arnavlatiyan) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/LatiyanArnav) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/Arnav-Latiyan-1) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/Pretty-Shopping-7344) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:latiyanarnav@gmail.com) 
 
 ## 💻 Core Skills:
 
@@ -51,13 +25,24 @@ Fun fact: I keep thinking I'm funny. My code has trust issues about that.
 ### Hardware & Other
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
----
+## 🚀 Featured Projects
+
+| Project | Description | Tech Stack |
+|---------|-------------|------------|
+| [Oral Cancer Detection](https://github.com/Advik274/Oral_cancer_detection) | Deep learning project for early detection of oral cancer using image classification | Python, TensorFlow, CNN |
+| [GitHub Contribution Agent](https://github.com/Advik274/github-contrib-agent) | AI-powered desktop agent that automates GitHub contributions | Python, Mistral AI, PyQt |
+| [NQueen](https://github.com/Advik274/NQueen) | N-Queens problem solver with visualization | Python, Algorithm |
+| [AI Code Doctor](https://github.com/Advik274/Ai-code-doctor) | AI-powered code analysis and improvement tool | Python, AI |
+| [Plant Disease Detection](https://github.com/Advik274/Plant-Disease-Detection) | ML model to identify plant diseases from leaf images | Python, CNN, OpenCV |
+
 
 ## 📊 GitHub Stats:
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=advik274&theme=transparent&hide_border=true)
-![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=advik274&theme=transparent&hide_border=true&layout=compact)
+![](https://github-readme-streak-stats.herokuapp.com/?user=advik274&theme=transparent&hide_border=true)<br/>
+![](https://github-stats-extended.vercel.app/api/top-langs/?username=advik274&theme=transparent&hide_border=true&layout=compact)
 
----
 
-## 💰 You can help me by Donating
-[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/Arnav_Latiyan) [![Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://patreon.com/Arnav_Latiyan)
+  ## 💰 You can help me by Donating
+  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/Arnav_Latiyan) [![Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://patreon.com/Arnav_Latiyan) 
+
+  
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
