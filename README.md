@@ -1,5 +1,5 @@
 # 💫 About Me:
-I’m a developer who loves building AI and ML projects that actually solve real problems. Most of my work comes from a simple belief: if I own a device, it should work exactly the way I want. That mindset pushes me to personalize everything I use, from my smartwatch to my laptop, and build tools that people don’t talk about enough but genuinely need.<br><br>I’m currently working on a Carbon Emission from USA in past as a Data Science and Machine learning project. I’m open to collaborating on practical AI projects and always looking for help on systems that mix computer vision, ML pipelines, and real-world deployment.<br><br>Right now, I’m learning advanced ML techniques, DSA in Java, and building stronger backend skills with Flask and Database as well.<br>Ask me about Python, ML models, Java DSA, or turning messy ideas into working prototypes.<br><br>Fun fact: I keep thinking I’m funny. My code has trust issues about that.
+I’m a developer who loves building AI and ML projects that actually solve real problems. Most of my work comes from a simple belief: if I own a device, it should work exactly the way I want. That mindset pushes me to personalize everything I use, from my smartwatch to my laptop, and build tools that people don’t talk about enough but genuinely need.<br><br>I’m currently working on **Carbon Emissions in the USA** as a Data Science and Machine Learning project. I’m open to collaborating on practical AI projects and always looking for help on systems that mix computer vision, ML pipelines, and real-world deployment.<br><br>Right now, I’m learning advanced ML techniques, DSA in Java, and building stronger backend skills with Flask and databases as well.<br>Ask me about Python, ML models, Java DSA, or turning messy ideas into working prototypes.<br><br>Fun fact: I keep thinking I’m funny. My code has trust issues about that.
 
 
 ## 🌐 Socials:
@@ -15,32 +15,5 @@ I’m a developer who loves building AI and ML projects that actually solve real
 ### Backend & Web
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 ### Cloud & DevOps
-![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-### Database
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-### Design
-![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
-### Hardware & Tools
-![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-
-# 🚀 Featured Projects
-
-| Project | Description | Tech Stack |
-|---------|-------------|------------|
-| [Oral Cancer Detection](https://github.com/Advik274/Oral_cancer_detection) | Deep learning project for early detection of oral cancer using image classification | Python, TensorFlow, CNN |
-| [GitHub Contribution Agent](https://github.com/Advik274/github-contrib-agent) | AI-powered desktop agent that automates GitHub contributions | Python, Mistral AI, PyQt |
-| [NQueen](https://github.com/Advik274/NQueen) | N-Queens problem solver with visualization | Python, Algorithm |
-| [AI Code Doctor](https://github.com/Advik274/Ai-code-doctor) | AI-powered code analysis and improvement tool | Python, AI |
-| [Plant Disease Detection](https://github.com/Advik274/Plant-Disease-Detection) | ML model to identify plant diseases from leaf images | Python, CNN, OpenCV |
-
-
-# 📊 GitHub Stats:
-![](https://github-readme-streak-stats.herokuapp.com/?user=advik274&theme=transparent&hide_border=true)<br/>
-![](https://github-stats-extended.vercel.app/api/top-langs/?username=advik274&theme=transparent&hide_border=true&layout=compact)
-
-
-  ## 💰 You can help me by Donating
-  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/Arnav_Latiyan) [![Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://patreon.com/Arnav_Latiyan) 
-
-  
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+![Google Clo
+... (truncated)
